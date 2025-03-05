@@ -1,9 +1,18 @@
+@font-face {
+  font-family: Mochica;
+  src: url(Mochica_PERSONAL_USE_ONLY.otf);
+}
+
+
+h1 {
+  font-family: Mochica;
+}
 html {
   height: 100%;
   width: 100%;
 }
 body {
-  font-family: Tahoma, san-serif;
+  font-family: MyFont, san-serif;
 }
 .little{
   width: 100px;
@@ -20,5 +29,5 @@ body {
 color: rgb(61, 43, 226);
 }
 .part3 {
-  color: rgb(0, 255, 55);
+  color: rgb(72, 134, 66);
 }
